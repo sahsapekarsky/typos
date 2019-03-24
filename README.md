@@ -10,4 +10,5 @@ The stepss:
 3. Make the changes on the branch via *commits*
 4. Submit a *pull request* back into the orignal repository
 5. Update your pull request with extra commits as needed
+6. change
 
